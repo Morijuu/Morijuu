@@ -1,6 +1,6 @@
 # Pablo Morell (Morijuu)
 
-Game Development & Interactive Experiences student at Florida Universitària (UPV, Valencia), currently on Erasmus at Vilniaus kolegija (VIKO), Vilnius.
+Game Development & Interactive Experiences student at Florida Universitària (UPV, Valencia).
 On the side I build and run Shopify stores, and the tooling that goes with them.
 
 - 🎮 Unity / C#, Go, web (HTML, CSS, JavaScript, Node.js)
